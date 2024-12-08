@@ -6,13 +6,13 @@ int main() {
     int a , b, c;
 
     cout<<"Enter the First No. :-";
-    cin>>a;
+    cin>>a;//input
 
     cout<<"Enter the First No. :-";
-    cin>>b;
+    cin>>b;//input
 
     cout<<"Enter the First No. :-";
-    cin>>c;
+    cin>>c;//input
 
     if(a >= b && a >= c){
         cout<<"It is the largest :- "<<a <<endl;
