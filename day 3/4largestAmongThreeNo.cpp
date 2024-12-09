@@ -15,13 +15,13 @@ int main() {
     cin>>c;//input
 
     if(a >= b && a >= c){
-        cout<<"It is the largest :- "<<a <<endl;
+        cout<<"It is the largest :- "<<a <<endl;//output
     }
     else if( b >= c){
-        cout<<"It is the largest :- "<<b <<endl;
+        cout<<"It is the largest :- "<<b <<endl;//output
     }
     else{
-        cout<<"It is the largest :- "<<c <<endl;
+        cout<<"It is the largest :- "<<c <<endl;//output
     }
     return 0;
 };
