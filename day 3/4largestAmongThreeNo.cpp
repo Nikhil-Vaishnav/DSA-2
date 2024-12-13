@@ -5,13 +5,13 @@ int main() {
 
     int a , b, c;
 
-    cout<<"Enter The First No. :-";
+    cout<<"Enter The First No - :-";
     cin>>a;//input
 
-    cout<<"Enter The First No. :-";
+    cout<<"Enter The First No - :-";
     cin>>b;//input
 
-    cout<<"Enter The First No. :-";
+    cout<<"Enter The First No - :-";
     cin>>c;//input
 
     if(a >= b && a >= c){
